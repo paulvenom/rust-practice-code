@@ -1,0 +1,19 @@
+[workspace]
+members = [
+    "basic-io",
+    "candidate-ages",
+    "drink-age-matching",
+    "drinks",
+    "error-handling",
+    "file-io",
+    "loops",
+    "multi-arm-function",
+    "my_rust_project",
+    "password-cracker-sha256",
+    "quiz game",
+    "structures-practice",
+    "taking-damage",
+    "template-calculator-advanced",
+    "url-shortener",
+    "vectors-practice",
+]
